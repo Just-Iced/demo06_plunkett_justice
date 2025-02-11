@@ -1,1 +1,24 @@
+.navbar-light {
+    background-color: #3e517a !important;
+}
 
+.navbar-brand, .nav-link {
+    color: #4bb3fd;
+}
+.navbar-brand {
+    font-family: 'Atma';
+    font-size: 2.5rem;
+}
+
+.flex-wrap{
+    background-color: #ede3e9;
+    border: 2px solid #cb429f;
+}
+
+body {
+    background-color: #ede3e9;
+}
+
+.btn {
+    background-color: #61c9a8;
+}
